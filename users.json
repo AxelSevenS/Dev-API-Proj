@@ -1,0 +1,20 @@
+[
+	{
+		"Id":777,
+		"Username":"admin",
+		"Password":"JeSuisAdmin",
+		"Admin":true
+	},
+	{
+		"Id":123,
+		"Username":"bob",
+		"Password":"BobGaming",
+		"Admin":false
+	},
+	{
+		"Id":321,
+		"Username":"alice",
+		"Password":"AliceGaming",
+		"Admin":false
+	}
+]

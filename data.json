@@ -1,0 +1,20 @@
+[
+	{
+		"Id":456,
+		"Author":123,
+		"Name":"Inspector",
+		"Description":"Épée cool"
+	},
+	{
+		"Id":654,
+		"Author":321,
+		"Name":"Pomme Verte",
+		"Description":"Très acide, peu sucrée"
+	},
+	{
+		"Id":555,
+		"Author":777,
+		"Name":"Les Testicules de la statue de l'archibalde",
+		"Description":"Elles sont petites"
+	}
+]
